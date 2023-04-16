@@ -18,7 +18,7 @@ The dataset used in this study was obtained from Kaggle and consisted of 50,000 
 
 ## Models
 
-Several deep learning models were compared in this study, Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM) networks. The models were trained using the pre-processed dataset, and their performance was evaluated based on accuracy.
+Several deep learning models were compared in this study, including Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM) networks. The models were trained using the pre-processed dataset, and their performance was evaluated based on accuracy.
 
 ## Results
 
