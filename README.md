@@ -8,7 +8,7 @@ https://ieeexplore.ieee.org/abstract/document/10063028
 
 
 
-#Background
+##Background
 
 Classifying music into genres is a challenging task, but it becomes even more challenging when trying to do so based solely on the song title. Many titles only have three or four words, which may not clearly indicate the genre. This study aimed to explore whether deep learning models could accurately classify songs based on their titles alone.
 
